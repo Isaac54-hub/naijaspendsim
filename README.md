@@ -1,3 +1,4 @@
+naijaspendsimulator.html
 # naijaspendsim
 For earnings 
 import React, { useEffect, useMemo, useRef, useState } from "react";
