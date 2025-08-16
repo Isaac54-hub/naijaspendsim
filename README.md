@@ -1,0 +1,2 @@
+# naijaspendsim
+For earnings 
